@@ -18,14 +18,3 @@ A peer-to-peer video streaming application using WebRTC that allows direct video
 2. **Signaling Exchange**: Connection data is copied/pasted between peers
 3. **Direct Streaming**: Once connected, video streams directly between browsers
 4. **Synchronized Playback**: Play/pause/seek actions are mirrored between peers
-
-## Live Demo 🌐
-
-[Try it now!](https://your-deployment-url.com) (Host your own copy to demo)
-
-## Installation & Usage 🚀
-
-### Quick Start (Local Testing)
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/webrtc-videostreamer.git
