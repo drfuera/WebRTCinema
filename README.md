@@ -2,7 +2,7 @@
 
 A peer-to-peer video streaming application using WebRTC that allows direct video sharing between two computers without requiring a server for media relaying.
 
-![Demo Screenshot]([https://i.imgur.com/JQ8K3hG.png](https://github.com/drfuera/WebRTCinema/blob/main/screenshot.png))
+![Demo Screenshot](https://github.com/drfuera/WebRTCinema/blob/main/screenshot.png)
 
 ## Features ✨
 
