@@ -6,7 +6,7 @@
 
 WebRTCinema is a browser-based peer-to-peer video streaming application that allows you to watch videos together in real-time without any servers. Stream video files directly between computers with synchronized playback, audio support, and smart buffering.
 
-![WebRTCinema Interface](https://img.shields.io/badge/WebRTC-P2P%20Streaming-blue)
+![WebRTCinema Interface](https://github.com/drfuera/WebRTCinema/blob/main/screenshot.png)
 
 ## ✨ Features
 
