@@ -1,3 +1,5 @@
+![GitHub release](https://img.shields.io/github/v/release/drfuera/WebRTCinema)    ![GitHub downloads](https://img.shields.io/github/downloads/drfuera/WebRTCinema/total)    ![License](https://img.shields.io/badge/License-MIT-red)  
+
 # WebRTC Video Streamer 🎥⇄💻
 
 A peer-to-peer video streaming application using WebRTC that allows direct video sharing between two computers without requiring a server for media relaying.
